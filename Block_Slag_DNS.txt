@@ -1,0 +1,7 @@
+0.0.0.0 rebus.rustore.ru
+0.0.0.0 config.edge.skype.com
+0.0.0.0 static.rustore.ru
+0.0.0.0 backapi.rustore.ru
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 *.dbankcloud.ru
+0.0.0.0 *.gvt1.com
