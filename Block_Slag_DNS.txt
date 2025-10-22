@@ -5,3 +5,4 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 *.dbankcloud.ru
 0.0.0.0 *.gvt1.com
+0.0.0.0 *.gvt2.com
