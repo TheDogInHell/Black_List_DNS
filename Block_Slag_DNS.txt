@@ -7,3 +7,10 @@
 0.0.0.0 *.gvt1.com
 0.0.0.0 *.gvt2.com
 0.0.0.0 *.rustore.ru
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 *.adnxs.com
+0.0.0.0 servicer.mgid.com
