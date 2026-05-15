@@ -15,3 +15,10 @@
 0.0.0.0 *.adnxs.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 www.rustore.ru
+0.0.0.0 sdk-api.apptracer.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 omicron.rustore.ru
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 imgs2.imgsmail.ru
+0.0.0.0 xray.mail.ru
+0.0.0.0 trk.mail.ru
