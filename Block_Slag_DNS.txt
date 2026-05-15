@@ -14,4 +14,4 @@
 0.0.0.0 adnxs.com
 0.0.0.0 *.adnxs.com
 0.0.0.0 servicer.mgid.com
-0.0.0.0 rustore.ru
+0.0.0.0 www.rustore.ru
